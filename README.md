@@ -3,7 +3,11 @@
 
                     }
 
-                    // #3 PAGE ACTIONS
+                    // #3 PAGE ACTIONSageToClick) {
+                        const clickSelector = selectorUrl;
+                        const xPathToClick = await openedPageToClick.waitForXPath(clickSelector);
+                        await xPathToClick.click();
+                        await new Promise(resolve => setTimeout(r
 
                     async function clickFunction(selectorUrl, openedPageToClick) {
                         const clickSelector = selectorUrl;
