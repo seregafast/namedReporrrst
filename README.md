@@ -1,6 +1,4 @@
                await pageName.goto(url);
-                        await pageName.waitForNetworkIdle();
-
                     }
 
                     // #3 PAGE ACTIONSageToClick) {
