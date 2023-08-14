@@ -3,6 +3,10 @@
 
                     // #3 PAGE ACTIONSageToClick) {
                         const clickSelector = selectorUrl;
+                        const xPathToClick = await openedPageToClick.waitForX
+
+                    // #3 PAGE ACTIONSageToClick) {
+                        const clickSelector = selectorUrl;
                         const xPathToClick = await openedPageToClick.waitForXPath(clickSelector);
                         await xPathToClick.click();
                         await new Promise(resolve => setTimeout(r
