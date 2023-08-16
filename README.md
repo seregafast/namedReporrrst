@@ -1,6 +1,4 @@
                await pageName.goto(url);
-                    }
-                        const clickSelector = selectorUrl;
                         const xPathToClick = await openedPageToClick.waitForX
 
                     // #3 PAGE ACTIONSageToClick) {
