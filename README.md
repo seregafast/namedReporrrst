@@ -11,8 +11,6 @@
                         const clickSelector = selectorUrl;
                         const xPathToClick = await openedPageToClick.waitForXPath(clickSelector);
                         await xPathToClick.click();
-                            
-                    }
 
                     async function clickFunctionSelector(selectorUrl, openedPageToClick) {
                         const clickSelector = selectorUrl;
