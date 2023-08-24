@@ -8,8 +8,7 @@
                         await new Promise(resolve => setTimeout(r
                         const clickSelector = selectorUrl;
                         const xPathToClick = a
-                    async function clickFunctionSelector(selectorUrl, openedPageToClick) {
-                        const clickSelector = selectorUrl;
+                    async function clickFunctionSelector(selectorUrl, open
                         await openedPageToClick.waitForSelector(selectorUrl);0));
                             await Promise.waitForNetworkIdle;
                     }
