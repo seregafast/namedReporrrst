@@ -9,9 +9,6 @@
                         const clickSelector = selectorUrl;
                         const xPathToClick = a
                     async function clickFunctionSelector(selectorUrl, open
-                        await openedPageToClitForNetworkIdle;
-
-                    async function pageActions(url, [elementSelector1, elementSelector2, elementSelector3, elementSelector4, elementSelector5, elementSelector6, elementSelector7, elementSelector8, elementSelector9, elementSelector10, elementSelector11, elementSelecto
                     }
 
                     async function pageActions(url, [elementSelector1, elementSelector2, elementSelector3, elementSelector4, elementSelector5, elementSelector6, elementSelector7, elementSelector8, elementSelector9, elementSelector10, elementSelector11, elementSelector12, elementSelector13,],) {
