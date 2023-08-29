@@ -11,7 +11,7 @@
                     async function clickFunctionSelector(selectorUrl, open
                     }
 
-                    async function pageActions(url, [elementSelector1, elementSelector2, elementSelector3, elementSelector4, elementSelector5, elementSelector6, elementSelector7, elementSelector8, elementSelector9, elementSelector10, elementSelector11, elementSelector12, elementSelector13,],) {
+                    async function pageActions(url, [elementSelector1, elementSelector2, elementSelector3, 
                         const page4 = await browser.newPage();
                         await page4.goto(url);
 
