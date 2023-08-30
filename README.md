@@ -8,7 +8,6 @@
                         await new Promise(resolve => setTimeout(r
                         const clickSelector = selectorUrl;
                         const xPathToClick = a
-                    async function clickFunctionSelector(selectorUrl, open
                     }
 
                     async function pageActions(url, [elementSelector1, elementSelector2, elementSelector3, 
