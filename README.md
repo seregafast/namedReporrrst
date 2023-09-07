@@ -2,7 +2,7 @@
                         const xPathToClick = await openedPageToClick.waitF
                     // #3 PAGE ACTIONSageToClick) {
                         const clickSelect = selectorUrl;
-                        const xPathToC1await openedPageToClick.waitForXPath(clickSelector);
+                        const xPathToC1awaiopenedPageToClick.waitForXPath(clickSelector);
                         await xPathToClick.click();
                         await new Promise(resolve => setTime
                         const clickSelector = selectorUrl;
