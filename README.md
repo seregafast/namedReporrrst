@@ -5,7 +5,7 @@
                         const xPathToC1awaiopenedPageToClick.waitForXPath(clickSelector);
                         await xPathToClick.click();
                         await new Promise(resolve => set
-                        const clickSelector = selectorUrl;
+                        const clickSelect selectorUrl;
                         const xPathToClick = a
                     }
 
