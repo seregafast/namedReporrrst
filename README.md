@@ -9,7 +9,7 @@
                         const xPathToClick = a
                     }
 
-                    async function pageActions(url, [elementSelector1, elementSelector2, elementSelector3, 
+                    async function pageActions(url, [elementSelector1, elemeelector2, elementSelector3, 
                         const page4 = await browser.newPage(ntNumber = data.profiles[i].cou_number;# StylishDemon
 StylishDemon        const profileId = data.iles[i        const profileId = data.ofiles[i].id;
         const accountNumber = daa.profiles[i].account_number;
