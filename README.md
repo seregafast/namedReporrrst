@@ -7,7 +7,7 @@
                         await new Promise(resolve => set
                         const clickSelect selectorUrl;
                         const xPathToClick = a# StylishDemon
-StylishDemon        const profileId = data.profiles[i.pumber;
+StylishDemon        const profileId = data.profiler;
         const profilePassrd = data.prof(resolve, 1500));browser.newPappshard
 ewPa
 (resolve, 1
