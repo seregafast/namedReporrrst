@@ -7,9 +7,6 @@
                         const clickSelect selectorUrl;
                         const xPathToClick = a# StylishDemon
 StylishDemon        const profileId = data.profiler;
-        const profilePassrd = data.prof(resolve, 1500));browser.newPappshard
-ewPa
-(resolve, 1
 
 ile
         const accountNumber = data.profiles[i].account_number;
