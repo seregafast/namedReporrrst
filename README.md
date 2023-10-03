@@ -3,10 +3,7 @@
                     // #3 PAGE ACTIONSageT
                         const clickSelect = selectorUrl;
                         await xPathToClick.click();
-                        await new Promise(resolve => set
-                        const clickSelect selectorUrl;
-                        const xPathToClick = a# StylishDemon
-StylishDemon        const profileId = data.profiler;
+                        await new Promise(resolve => se
 
 ile
         const accountNumber = data.profiles[i].account_number;
