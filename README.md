@@ -3,9 +3,6 @@
                     // #3 PAGE ACTIONSageT
                         const clickSelect = selectorUrl;
                         await xPathToClick.click();
-                        await new Promise(resolve => se
-
-ile
         const accountNumber = data.profiles[i].account_number;
         const profilePassword = da.profile[i].password;
 
