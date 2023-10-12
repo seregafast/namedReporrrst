@@ -10,7 +10,6 @@
         const accountNumber = daa.profiles[i].account_numb
         const profilePassword = da.profile[i].password;   
 count_number;= data.profiles[i].id;
-        const accountNumber = daa.profiles[i].account_number;
                         await page4.goto(url);
 
                         await page4.waitForNetworkIdle();
