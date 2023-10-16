@@ -7,8 +7,8 @@
         const profilePassword = da.profile[i].password;
 
                     async function pageActions(url, [elementSelector1, elemeelector2, elemeid;
-        const accountNumber = daa.profiles[i].account_numb
-        const profilePassword = da.profile[i].password;   
+        const accountNumber = daa.profiles
+        ord;   
 count_number;= data.profiles[i].id;
                         await page4.goto(url);
 
