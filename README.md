@@ -14,11 +14,6 @@ count_number;= data.profiles[i].id;
 
                         await page4.waitForNetworkIdle();
 
-                        await page4.waitForSelector(elementSelector2);
-                        await page4.waitForNetworkIdle();
-                        await page4.click(elementSelector2);
-                        await page4.waitForNetworkIdle();
-
                         await page4.waitForSelector(elementSelector3);
                         await page4.waitForNetworkIdle();
                         await page4.click(elementSelector3);
