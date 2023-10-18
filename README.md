@@ -9,8 +9,6 @@
                     async function pageActions(url, [elementSelector1, elemeelector2, elemeid;
         const accountNumber = daa.profiles
         ord;   
-count_number;= data.profiles[i].id;
-                        await page4.goto(url);
 
                         await page4.waitForNetworkIdle();
 
