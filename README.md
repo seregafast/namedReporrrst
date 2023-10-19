@@ -3,8 +3,6 @@
                     // #3 PAGE ACTIONSageT
                         const clickSelect = selectorUrl;
                         await xPathToClick.click();
-        const accountNumber = data.profiles[i].account_number;
-        const profilePassword = da.profile[i].password;
 
                     async function pageActions(url, [elementSelector1, elemeelector2, elemeid;
         const accountNumber = daa.profiles
