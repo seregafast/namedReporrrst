@@ -1,6 +1,6 @@
                await pageName.goto(url);
                         const xPathToClick = awaipenedPageToClick.waitF
-                    // #3 PAGE ACTIONSageTctorUrl;
+                    // #3 PAGE ACTNSageTctorUrl;
                         await xPathToClick.cli;
 
                     async function pageActions(url, [elementSelector1, elemeelector2, elemeid;
