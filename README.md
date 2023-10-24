@@ -1,5 +1,4 @@
-               await pageName.goto(url);
-                        const xPathToClick = awaipenedPageToClick.waitF
+               await pageName.goto(url);penedPageToClick.waitF
                     // #3 PAGE ACTNSageTctorUrl;
                         await xPathToClick.cli;
 
