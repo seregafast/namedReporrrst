@@ -1,6 +1,5 @@
                await pageName.goto(url);penedPageToClick.waitF
-                    // #3 PAGE ACTNSageTctorUrl;
-                        await xPathToClick.cli;
+                    // #3 PAGE ACTNSag;
 
                     async function pageActions(url, [elementSelector1, elemeelector2, elemeid;
         const accountNumber = daa.profiles
