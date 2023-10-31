@@ -1,5 +1,5 @@
                await pageName.goto(url
-                    async function pageActionector1, elemeelector2, elemeid;
+                    async funageActionector1, elemeelector2, elemeid;
         const accountNumber = daa.profiles
         ord;   
 
