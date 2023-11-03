@@ -5,13 +5,19 @@
 
                         await page4.waitForNetworkIdle();
 
-                        await page4.waitForSelector(elementSelector3);
-                        await page4.waitForNetworkIdle();
-                        await page4.click(elementSelector3);
-                        await page4.waitForNetwo
-                        await page4.waitForSelector(elementSelector5);
-                        await page4.waitForNetworkIdle();
-                        await page4.click(elementSelector5);
+                        await page4.waitForSel
+      "dependsOn": ["^bu
+        "../../.cargo/**",
+        "../../packages/next-swc/crates/**",
+        "../../packages/next/*
+        "../../**/Cargo.lock"
+      ]
+      "dependsOn": ["^bu
+        "../../.cargo/**",
+        "../../packages/next-swc/crates/**",
+        "../../packages/next/*
+        "../../**/Cargo.lock"
+      ]lector5);
                         await page4.waitForNetworkIdle();
 
                         await page4.waitForSelector(elementSelector6);
