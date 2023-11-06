@@ -6,8 +6,6 @@
                         await page4.waitForNetworkIdle();
 
                         await page4.waitForSel
-      "dependsOn": ["^bu
-        "../../.cargo/**",
         "../../packages/next-swc/crates/**",
         "../../packages/next/*
         "../../**/Cargo.lock"
