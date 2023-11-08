@@ -5,8 +5,6 @@
 
                         await page4.waitForNetworkIdle();
 
-                        await page4.waitForSel
-        "../../packages/next-swc/crates/**",
         "../../packages/next/*
         "../../**/Cargo.lock"
         "../../.cargo/**",
