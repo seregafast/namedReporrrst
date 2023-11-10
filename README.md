@@ -1,9 +1,6 @@
                await pageName.goto(url
                     async funageActionector1, elemeelector2, elemeid;
         const accountNumber = daa.profiles
-        ord;   
-
-                        await page4.waitForNetworkIdle();
 
         "../../packages/next/*
         "../../**/Cargo.lock"
