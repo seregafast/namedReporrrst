@@ -8,9 +8,7 @@
         "../../packages/next-swc/crates/**",
         "../../packages/next/*
         "../../**/Cargo.lock"
-      ]lector5);
-                        await page4.waitForNetworkIdle();
-
+      ]lector5)
                         await page4.waitForSelector(elementSelector6);
                         await page4.waitForNetworkIdle();
                         await page4.clic();
