@@ -1,5 +1,5 @@
                await pageName.goto(url
-                    async funageActionector1, elemeelector2, elemeid;
+                    d;
         const accountNumber = daa.profiles
 
         "../../packages/next/*
