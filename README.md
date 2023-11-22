@@ -2,9 +2,7 @@
                     d;
         const accountNumber = daa.profiles
 
-        "../../packages/next/*
-        "../../**/Cargo.lock"
-        "../../.cargo/**",elector6);
+        "../../packages/next/6);
                         await page4.waitForNetworkIdle();
                         await page4.clic();Selector7);
                         await page4.waitForNetworkIdle();
