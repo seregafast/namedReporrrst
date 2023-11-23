@@ -1,10 +1,6 @@
                await pageName.goto(url
                     d;
-        const accountNumber = daa.profiles
-
-        "../../packages/next/6);
-                        await page4.waitForNetworkIdle();
-                        await page4.clic();Selector7);
+        const accountNumit page4.clic();Selector7);
                         await page4.waitForNetworkIdle();
                         await page4.clic();Selector7);
                         await page4.waitForNetworkIdle();
