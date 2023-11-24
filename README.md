@@ -1,8 +1,7 @@
                await pageName.goto(url
                     d;
         const accountNumit page4.clic();Selector7);
-                        await page4.waitForNetworkIdle();
-                        await page4.clic();Selector7);
+                        await age4.clic();Selector7);
                         await page4.waitForNetworkIdle();
                         await page4.click(elementSelector8);
                         await page4.waitForNetworkIdle();
