@@ -1,7 +1,5 @@
                await pageName.goto(url
-                    d;c();Selector7);
-                        await page4.waitForNetworkIdlr8);
-                        await page4.click(elementSelector8);
+                    d;c();Selector7);ctor8);
                         await page4.waitForNetworkIdle();
 
                         await page4.waitForSelector(elementSelector9);
