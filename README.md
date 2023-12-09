@@ -1,7 +1,4 @@
-               await pageName.goto(urlSelector9);
-                        await page4.waitForSelector(elementSelector10);
-                        await page4.wa
-                        await page4.waitForSelector(elementSelector11);
+               await pageName.goto(urlSe=Selector(elementSelector11);
                         await page4.waitForNetworkIdle();
                         await page4.click(elementSelector11);
                         await page4.waitForNetworkIdle();
