@@ -1,5 +1,4 @@
-waitForSelector(elementSelector12);
-                        await page4.waitForNetworkIdleelementSelector12);
+waitForSelector(elementSelector12);mentSelector12);
                         await page4.waitForNetworkIdle();
 
                         await page4.waitForSelector(elementSelector13);
